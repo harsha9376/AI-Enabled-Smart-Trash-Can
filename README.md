@@ -1,0 +1,1 @@
+# AI-Enabled-Smart-Trash-Can
