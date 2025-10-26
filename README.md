@@ -25,18 +25,17 @@ A lightweight Convolutional Neural Network (CNN) deployed on an embedded device 
 - **Flask / Node-RED dashboard** – for analytics visualization  
 
 ## Features
-- Real-time **waste detection and classification**
-- **Camera live stream** and image capture for verification
-- **Servo-controlled bin sorting** (recyclable / non-recyclable / compost)
-- **Cloud data upload** for waste statistics and trend analysis
-- **Low-cost and scalable** design suitable for smart cities
-- Optional **gamification and feedback** to encourage user participation
+- Real-time waste detection and classification
+- Camera live stream and image capture for verification
+- Servo-controlled bin sorting (recyclable / non-recyclable / compost)
+- Cloud data upload for waste statistics and trend analysis
+- Low-cost and scalable** design suitable for smart cities
 
-### ** Hardware Setup**
+### Hardware Setup
 1. Assemble the ESP32-CAM module with IR, ultrasonic, and load cell sensors.
 2. Connect servo motors to designated GPIO pins.
 3. Power the system using 5V adapter or USB supply.
 
-### ** Software Setup**
+### Software Setup
 1. Arduino IDE
 2. TensorFlow Lite
