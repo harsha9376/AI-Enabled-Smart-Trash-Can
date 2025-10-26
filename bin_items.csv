@@ -1,0 +1,51 @@
+s.no,item name,item type,recyclable(yes/no),non recyclable (yes/no)
+1,Water Bottle,Plastic,Yes,No
+2,Newspaper,Paper,Yes,No
+3,Aluminum Can,Metal,Yes,No
+4,Glass Jar,Glass,Yes,No
+5,Banana Peel,Organic,No,Yes
+6,Old T-Shirt,Textile,No,Yes
+7,Phone Charger,Electronic,Yes,No
+8,Cardboard Box,Paper,Yes,No
+9,Yogurt Cup,Plastic,Yes,No
+10,Steel Spoon,Metal,Yes,No
+11,Broken Glass,Glass,Yes,No
+12,Coffee Grounds,Organic,No,Yes
+13,Plastic Bag,Plastic,Yes,No
+14,Magazine,Paper,Yes,No
+15,Tin Can,Metal,Yes,No
+16,Wine Bottle,Glass,Yes,No
+17,Vegetable Scraps,Organic,No,Yes
+18,Worn Socks,Textile,No,Yes
+19,Headphones,Electronic,Yes,No
+20,Milk Carton,Paper,Yes,No
+21,Soap Wrapper,Plastic,Yes,No
+22,Nail,Metal,Yes,No
+23,Perfume Bottle,Glass,Yes,No
+24,Tea Leaves,Organic,No,Yes
+25,Jeans,Textile,No,Yes
+26,Remote Control,Electronic,Yes,No
+27,Pizza Box,Paper,Yes,No
+28,Straw,Plastic,Yes,No
+29,Battery (AA),Electronic,Yes,No
+30,Canned Food,Metal,Yes,No
+31,Mason Jar,Glass,Yes,No
+32,Fruit Peels,Organic,No,Yes
+33,Old Curtain,Textile,No,Yes
+34,USB Cable,Electronic,Yes,No
+35,Notebook,Paper,Yes,No
+36,Takeaway Container,Plastic,Yes,No
+37,Bolt,Metal,Yes,No
+38,Glass Vase,Glass,Yes,No
+39,Eggshells,Organic,No,Yes
+40,Sweater,Textile,No,Yes
+41,Calculator,Electronic,Yes,No
+42,Envelopes,Paper,Yes,No
+43,Ice Cream Tub,Plastic,Yes,No
+44,Cooking Oil Can,Metal,Yes,No
+45,Beer Bottle,Glass,Yes,No
+46,Leaves,Organic,No,Yes
+47,Rag Cloth,Textile,No,Yes
+48,Digital Camera,Electronic,Yes,No
+49,Brochure,Paper,Yes,No
+50,Candy Wrapper,Plastic,Yes,No
